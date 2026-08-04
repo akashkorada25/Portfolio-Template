@@ -2,32 +2,32 @@ import project from "../assets/projects/project.svg";
 
 const projects = [
   {
-    name: "Lorem Ipsum",
+    name: "Finance Database System",
     img: project,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
+      "Designed and implemented a financial data management system with integrity constraints, audit mechanisms, and advanced SQL automation, enabling real-time reporting across 10,000+ records with 99.9% data accuracy using validated test datasets.",
+    link: "https://github.com/akashkorada25",
   },
   {
-    name: "Lorem Ipsum",
+    name: "Weather Application",
     img: project,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
+      "Built a weather application with Python and Tkinter, integrating OpenWeatherMap APIs, timezone conversion, secure API handling, and robust error management, with full endpoint validation through Postman testing.",
+    link: "https://github.com/akashkorada25",
   },
   {
-    name: "Lorem Ipsum",
+    name: "AWS Migration Orchestration",
     img: project,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
+      "Developed a serverless AWS solution with Lambda, Step Functions, and CDK to automate VPCE migrations, reducing migration time from hours to minutes and eliminating hundreds of manual hours per quarter.",
+    link: "https://github.com/akashkorada25",
   },
   {
-    name: "Lorem Ipsum",
+    name: "Infrastructure Monitoring Automation",
     img: project,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
+      "Created Linux-based monitoring and alerting tooling for CPU, memory, disk, and logs across 20+ servers, improving incident visibility and reducing incident response time by 25%.",
+    link: "https://github.com/akashkorada25",
   },
 ];
 

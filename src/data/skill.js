@@ -16,7 +16,7 @@ const skills = [
     icon: python,
   },
   {
-    name: "Javascript",
+    name: "JavaScript / TypeScript",
     icon: javaScript,
   },
   {
@@ -32,15 +32,11 @@ const skills = [
     icon: node,
   },
   {
-    name: "HTML",
+    name: "SQL",
     icon: html,
   },
   {
-    name: "CSS",
-    icon: css,
-  },
-  {
-    name: "Tailwind",
+    name: "Tailwind CSS",
     icon: tailwind,
   },
   {
@@ -48,12 +44,16 @@ const skills = [
     icon: firebase,
   },
   {
-    name: "Github Actions",
+    name: "GitHub Actions",
     icon: githubActions,
   },
   {
     name: "Flutter",
     icon: flutter,
+  },
+  {
+    name: "CSS",
+    icon: css,
   },
 ];
 

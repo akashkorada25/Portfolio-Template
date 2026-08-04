@@ -5,24 +5,19 @@ import github from "../assets/github.png";
 
 const contacts = [
   {
-    label: "abc@gmail.com",
+    label: "akashkorada.25@gmail.com",
     icon: email,
-    link: "mailto:abc@gmail.com",
+    link: "mailto:akashkorada.25@gmail.com",
   },
   {
     label: "LinkedIn",
     icon: linkedin,
-    link: "https://www.linkedin.com",
+    link: "https://www.linkedin.com/in/akash-kiran-korada/",
   },
   {
     label: "Github",
     icon: github,
-    link: "https://github.com",
-  },
-  {
-    label: "@xprofile",
-    icon: twitter,
-    link: "https://x.com",
+    link: "https://github.com/akashkorada25",
   },
 ];
 

@@ -1,24 +1,24 @@
 const workAndEducation = [
   {
-    year: "MM YYYY - MM YYYY",
-    organization: "ABCDE University",
-    position: "MS IT",
-    responsibility: "",
+    year: "Masters: Dec 2025",
+    organization: "Arizona State University",
+    position: "MS Information Technology",
+    responsibility: "Graduated with a 4.0 GPA and completed coursework in Cloud Computing, Advanced Database Management Systems, Software Engineering, and Big Data Analytics.",
   },
   {
-    year: "MM YYYY - MM YYYY",
+    year: "May 2025 - Aug 2025",
     organization: "Amazon Web Services",
-    position: "Intern",
+    position: "Software Development Engineer Intern",
     responsibility:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "Built an automated VPCE migration platform that reduced migration time from 3–4 hours to under 5 minutes and saved over 100 operational hours per quarter. Architected a serverless AWS solution using Lambda, Step Functions, CDK, CloudWatch, and NLB workflows across 50+ environments. Implemented retry logic, rollback handling, and validation checks to reduce customer-impacting failures by 40%. Standardized deployments with AWS CDK and improved provisioning speed by 60%. Added centralized monitoring and alerting to lower mean time to detection by 35%.",
   },
   {
-    year: "MM YYYY - MM YYYY",
-    organization: "GHIJ",
-    position: "Developer",
+    year: "June 2023 - Aug 2023",
+    organization: "Tata Consultancy Services",
+    position: "Software Development Engineer Intern",
     responsibility:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-  }
+      "Developed Linux-based monitoring solutions across 20+ servers to improve visibility into CPU, memory, disk, and log metrics. Streamlined alerting pipelines and operational tooling to reduce manual monitoring effort by 30% and incident response time by 25%. Optimized deployment automation and release workflows for five production services, improving application stability by 20%. Collaborated in Agile teams on debugging, documentation, and SDLC processes to increase delivery efficiency.",
+  },
 ];
 
 export { workAndEducation };

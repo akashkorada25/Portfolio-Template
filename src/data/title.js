@@ -4,7 +4,7 @@ const navBar = [
     linkTo: "#about",
   },
   {
-    name: "Experience",
+    name: "Education",
     linkTo: "#experience",
   },
   {
@@ -18,22 +18,22 @@ const navBar = [
 ];
 
 const description = [
-  "Software developer",
-  "Full-stack developer",
-  "Web developer",
-  "Mobile developer",
-  "UI Designer"
+  "Cloud-focused Software Development Engineer",
+  "Serverless AWS Engineer",
+  "Backend & API Developer",
+  "Automation and Monitoring Specialist",
+  "Data-Driven Problem Solver",
 ];
-const location = "XXX, YY, ZZZ";
+const location = "Arizona, United States";
 const greetings = "Hello!";
-const pronoun = "It's me";
+const pronoun = "I'm Akash Kiran Korada";
 const aboutMe = "About Me";
-const mySkills = "My Skills";
+const mySkills = "Skills";
 const experience = "Education and Work";
 const projectsContributions = "Projects and Contributions";
 const viewCode = "View Code";
 const contact = "Let's chat!";
-const footer = "Designed and developed by Name with code and coffee";
+const footer = "Designed and developed by Akash Kiran Korada";
 
 export {
   navBar,
