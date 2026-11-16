@@ -54,7 +54,7 @@ function Home() {
                 <ButtonWithImage
                   icon={contact}
                   activeIcon={contactActive}
-                  label="Conatct Me"
+                  label="Contact Me"
                 />
               </a>
             </div>

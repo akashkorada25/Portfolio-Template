@@ -1,23 +1,38 @@
 const workAndEducation = [
   {
-    year: "Masters: Dec 2025",
-    organization: "Arizona State University",
-    position: "MS Information Technology",
-    responsibility: "Graduated with a 4.0 GPA and completed coursework in Cloud Computing, Advanced Database Management Systems, Software Engineering, and Big Data Analytics.",
+    year: "May 2026 - Present",
+    organization: "Integrated Travel",
+    position: "AI Intern",
+    responsibility:
+      "Building Python and SQL data pipelines to collect, clean, and validate tourism, transportation, demographic, and economic datasets, preparing structured inputs for AI models and LLM workflows. Applying LLM-based tools for information extraction, content classification, research synthesis, and structured data organization across complex, unstructured sources. Evaluating web scraping and API-based acquisition to turn web content into analysis-ready datasets, automating repetitive research and reporting with Python and AI-assisted workflows, and authoring technical documentation with cross-functional stakeholders to turn business needs into scalable AI and data solutions.",
   },
   {
-    year: "May 2025 - Aug 2025",
-    organization: "Amazon Web Services",
+    year: "December 2025",
+    organization: "Arizona State University",
+    position: "M.S. in Information Technology | CGPA 4.0/4.0",
+    responsibility:
+      "Coursework: Data Structures & Algorithms, Cloud Computing, Advanced Database Management Systems, Big Data Analytics, Software Engineering.",
+  },
+  {
+    year: "May 2025 - August 2025",
+    organization: "Amazon.com Inc",
     position: "Software Development Engineer Intern",
     responsibility:
-      "Built an automated VPCE migration platform that reduced migration time from 3–4 hours to under 5 minutes and saved over 100 operational hours per quarter. Architected a serverless AWS solution using Lambda, Step Functions, CDK, CloudWatch, and NLB workflows across 50+ environments. Implemented retry logic, rollback handling, and validation checks to reduce customer-impacting failures by 40%. Standardized deployments with AWS CDK and improved provisioning speed by 60%. Added centralized monitoring and alerting to lower mean time to detection by 35%.",
+      "Spearheaded an automated VPCE migration platform, cutting customer migration time from 3–4 hours to under 5 minutes, eliminating 300+ manual hours and saving ~100 operational hours per quarter. Architected a serverless, event-driven AWS solution (Lambda, Step Functions, CDK, CloudWatch, NLB) enabling fully automated migration orchestration across 50+ AWS environments. Engineered fault-tolerant pipelines with retry logic, rollback handling, and pre-migration validation, reducing customer-impacting failures by 40%. Standardized deployments with AWS CDK Infrastructure-as-Code, accelerating provisioning by 60%, and added CloudWatch monitoring, alerting, and structured logging, reducing mean time to detection by 35%. Partnered with 3 cross-functional teams on design documentation and enforced IAM least-privilege and AWS Well-Architected best practices.",
   },
   {
-    year: "June 2023 - Aug 2023",
+    year: "August 2023",
+    organization: "GVP College Of Engineering",
+    position: "B.Tech in Electronics and Communication | CGPA 3.5/4.0",
+    responsibility:
+      "Coursework: Object-Oriented Programming, Data Analytics, Operating Systems, Computer Networks.",
+  },
+  {
+    year: "June 2023 - August 2023",
     organization: "Tata Consultancy Services",
     position: "Software Development Engineer Intern",
     responsibility:
-      "Developed Linux-based monitoring solutions across 20+ servers to improve visibility into CPU, memory, disk, and log metrics. Streamlined alerting pipelines and operational tooling to reduce manual monitoring effort by 30% and incident response time by 25%. Optimized deployment automation and release workflows for five production services, improving application stability by 20%. Collaborated in Agile teams on debugging, documentation, and SDLC processes to increase delivery efficiency.",
+      "Developed Linux-based monitoring for CPU, memory, disk, and logs across 20+ servers; streamlined alerting with scripting, cutting manual monitoring effort by 30% and incident response time by 25%. Optimized performance tuning, deployment automation, and release management for 5 production services (20% better release stability), and contributed in Agile teams, raising sprint delivery efficiency by 15%.",
   },
 ];
 
