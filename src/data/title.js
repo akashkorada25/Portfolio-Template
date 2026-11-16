@@ -24,7 +24,7 @@ const description = [
   "Backend & API Developer",
   "AWS Certified Solutions Architect",
 ];
-const location = "Arizona, United States";
+const location = "Tempe, Arizona, United States";
 const greetings = "Hello!";
 const pronoun = "I'm Akash Kiran Korada";
 const aboutMe = "About Me";

@@ -1,6 +1,6 @@
 const workAndEducation = [
   {
-    year: "May 2026 - Present",
+    year: "February 2026 - Present",
     organization: "Integrated Travel",
     position: "AI Intern",
     responsibility:
