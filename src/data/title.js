@@ -4,7 +4,7 @@ const navBar = [
     linkTo: "#about",
   },
   {
-    name: "Education",
+    name: "Experience",
     linkTo: "#experience",
   },
   {
@@ -18,18 +18,18 @@ const navBar = [
 ];
 
 const description = [
-  "Cloud-focused Software Development Engineer",
-  "Serverless AWS Engineer",
+  "Software Development Engineer",
+  "Cloud & Serverless AWS Engineer",
+  "AI & Data Pipeline Developer",
   "Backend & API Developer",
-  "Automation and Monitoring Specialist",
-  "Data-Driven Problem Solver",
+  "AWS Certified Solutions Architect",
 ];
-const location = "Arizona, United States";
+const location = "Tempe, Arizona, United States";
 const greetings = "Hello!";
 const pronoun = "I'm Akash Kiran Korada";
 const aboutMe = "About Me";
 const mySkills = "Skills";
-const experience = "Education and Work";
+const experience = "Experience and Education";
 const projectsContributions = "Projects and Contributions";
 const viewCode = "View Code";
 const contact = "Let's chat!";
